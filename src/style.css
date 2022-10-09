@@ -1,0 +1,3 @@
+.table-tes > tbody > tr:nth-child(2n) > td, .table-tes > tbody > tr:nth-child(2n) > th {
+    background-color: rgb(204, 204, 204);
+}
